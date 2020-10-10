@@ -1,5 +1,5 @@
 /node_modules
-/results
-
+/results/*
+^/results
 package-lock.json
 test.*
