@@ -25,7 +25,7 @@ const results = data
         }
     });
 
-fs.writeFile("test.json", JSON.stringify(results, null, " "), err => console.log(err));
+fs.writeFile("./results/" + moment().format("YYYY_MM_DD_HH_mm") + ".json", JSON.stringify(results, null, " "), err => console.log(err));
 
 console.log(
     results
