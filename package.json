@@ -1,0 +1,15 @@
+{
+  "name": "test-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Untitled-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
