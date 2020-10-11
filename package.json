@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.1"
+    "json-as-xlsx": "^1.1.7",
+    "moment": "^2.29.1",
+    "tempfile": "^3.0.0",
+    "xlsx": "^0.16.8"
   }
 }
